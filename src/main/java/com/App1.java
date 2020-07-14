@@ -1,3 +1,4 @@
+package com;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 import xxx.yyy.zzz.bean.Student;

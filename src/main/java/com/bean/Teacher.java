@@ -1,4 +1,4 @@
-package xxx.yyy.zzz.bean;
+package com.bean;
 
 public class Teacher {
 

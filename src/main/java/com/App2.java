@@ -12,6 +12,7 @@ public class App2 {
 
         Student tom = container.getBean(Student.class);
         System.out.println(tom);
+
         container.close();
     }
 }

@@ -1,4 +1,4 @@
-package xxx.yyy.zzz.bean;
+package com.bean;
 
 /**
  * 截至目前为止，Sutdent 的属性的类型都是简单类型：

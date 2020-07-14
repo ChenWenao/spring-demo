@@ -1,4 +1,4 @@
-
+package com;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import xxx.yyy.zzz.config.ApplicationContext;
