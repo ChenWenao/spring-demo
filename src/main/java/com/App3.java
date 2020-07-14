@@ -1,8 +1,9 @@
 package com;
 
 import com.bean.Teacher;
+import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-import xxx.yyy.zzz.config.ApplicationContext;
+
 
 
 

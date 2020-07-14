@@ -1,8 +1,8 @@
-package xxx.yyy.zzz.config;
+package com.config;
 
+import com.bean.Student;
+import com.bean.Teacher;
 import org.springframework.context.annotation.Bean;
-import xxx.yyy.zzz.bean.Student;
-import xxx.yyy.zzz.bean.Teacher;
 
 public class ApplicationContext1 {
 
