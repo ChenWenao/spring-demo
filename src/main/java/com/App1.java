@@ -1,7 +1,7 @@
 package com;
 
+import com.bean.Student;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
-import xxx.yyy.zzz.bean.Student;
 
 
 public class App1 {
